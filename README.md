@@ -6,12 +6,20 @@
 3. Ahmad Bactiar
 4. Midha Liudmila Ilbathuly
 
-## 1. Deskripsi API
-### Menjelaskan secara singkat fungsi dari Studio Ghibli API
-Studio Ghibli API adalah layanan berbasis web yang menyediakan data mengenai film-film karya Studio Ghibli, termasuk judul film, tahun rilis, deskripsi, direktur, produser, hingga informasi karakter. API ini memungkinkan developer untuk mengambil data tersebut dalam format JSON dan digunakan pada aplikasi atau penelitian.
-
-## 2. Analisis Sumber Daya Films ( https://ghibliapi.dev/films )
-* Struktur data JSON yang dimiliki film tersebut:
-  - id (String) – ID unik film
-  - title (String) – Judul film
-  - original_title (String) – Judul dalam bahasa aslinya
+ ## Deskripsi Proyek
+ API ini adalah layanan internal untuk mengelola ulasan film
+ dari Studio Ghibli,
+ dengan data film yang direferensikan dari Ghibli API publik.
+ ## Cara Menjalankan Proyek
+ 1. Clone repository ini: 'git clone https://github.com/tarunaisra/api_riset.git'
+ 2. Masuk ke direktori: ‘cd api_riset‘
+ 3. Install dependensi: ‘npm install‘
+ 4. Jalankan server: ‘node server.js‘
+     Server akan berjalan di ‘http://localhost:3300‘.
+ ## Daftar Endpoint
+- ‘GET /status‘: Cek status API.
+- ‘GET /reviews‘: Mengambil semua ulasan.
+- ‘GET /reviews/:id‘: Mengambil ulasan spesifik.
+- ‘POST /reviews‘: Membuat ulasan baru.
+- ‘PUT /reviews/:id‘: Memperbarui ulasan.
+- ‘DELETE /reviews/:id‘: Menghapus ulasan
