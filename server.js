@@ -23,6 +23,21 @@ let reviews = [
     user: "AnimeLover99",
     rating: 5,
     comment: "Absolute Anime!"
+    },
+  {
+    id: 2,
+    filmId: "54063b82-c849-47d1-8b37-683012ac7d1f",
+    user: "Otakudesu",
+    rating: 4,
+    comment: "Wandahoy!"
+  },
+
+  {
+    id: 3,
+    filmId: "86e544fd-79de-4e04-be62-5be67d8dd92e",
+    user: "Kesokou",
+    rating: 5,
+    comment: "Ahoy!"
   }
 ];
 
