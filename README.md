@@ -7,7 +7,8 @@
 4. Midha Liudmila Ilbathuly (362458302079)
 
 
-   [Laporan Analisis Studio Ghibli API Kelompok 7.pdf](https://github.com/user-attachments/files/22250194/Laporan.Analisis.Studio.Ghibli.API.Kelompok.7.pdf)
+  [Laporan Analisis Studio Ghibli API Kelompok 7.pdf](https://github.com/user-attachments/files/22254782/Laporan.Analisis.Studio.Ghibli.API.Kelompok.7.pdf)
+
 
  ## Deskripsi Proyek
  API ini adalah layanan internal untuk mengelola ulasan film
