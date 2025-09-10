@@ -1,10 +1,10 @@
 # Laporan Analisis Studio Ghibli API
 
 ## Anggota Kelompok 7 : 
-1. Taruna Isra Elnasa
-2. Yogi Maulana
-3. Ahmad Bactiar
-4. Midha Liudmila Ilbathuly
+1. Taruna Isra Elnasa (362458302073)
+2. Yogi Maulana (362458302116)
+3. Ahmad Bactiar Raflyansyah (362458302141)
+4. Midha Liudmila Ilbathuly (362458302079)
 
 
    [Laporan Analisis Studio Ghibli API Kelompok 7.pdf](https://github.com/user-attachments/files/22250194/Laporan.Analisis.Studio.Ghibli.API.Kelompok.7.pdf)
