@@ -71,8 +71,12 @@ app.get('/reviews/:id', (req, res) => {
 
 // POST /reviews
 app.post('/reviews', (req, res) => {
+  console.log('Request Body:', req.body); // Tambahkan log untuk memeriksa req.body
   const { filmId, user, rating, comment } = req.body;
 
+  if (!req.body) {
+    return res.status(400).json({ error: 'Request body is missing' });
+  }
   if (!filmId || !user || !rating || !comment) {
     return res.status(400).json({ error: 'Missing required fields: filmId, user, rating, comment' });
   }
