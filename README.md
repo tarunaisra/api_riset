@@ -4,7 +4,7 @@
 1. Taruna Isra Elnasa
 2. Yogi Maulana
 3. Ahmad Bactiar
-4. Midha Liudmila
+4. Midha Liudmila Ilbathuly
 
 ## 1. Deskripsi API
 ### Menjelaskan secara singkat fungsi dari Studio Ghibli API
