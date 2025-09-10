@@ -6,6 +6,9 @@
 3. Ahmad Bactiar
 4. Midha Liudmila Ilbathuly
 
+
+   [Laporan Analisis Studio Ghibli API Kelompok 7.pdf](https://github.com/user-attachments/files/22250194/Laporan.Analisis.Studio.Ghibli.API.Kelompok.7.pdf)
+
  ## Deskripsi Proyek
  API ini adalah layanan internal untuk mengelola ulasan film
  dari Studio Ghibli,
@@ -23,3 +26,4 @@
 - ‘POST /reviews‘: Membuat ulasan baru.
 - ‘PUT /reviews/:id‘: Memperbarui ulasan.
 - ‘DELETE /reviews/:id‘: Menghapus ulasan
+
