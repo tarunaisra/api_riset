@@ -50,6 +50,23 @@
 ## Penjelasan Pengujian
 
 Pengujian API dapat dilakukan menggunakan aplikasi seperti [Postman]
+Koleksi ini berisi request untuk menguji seluruh endpoint API, seperti:
+
+- **Status**: Menguji apakah server berjalan dengan benar.
+- **Reviews**: Mengambil seluruh data ulasan.
+- **Review berdasarkan id**: Mengambil ulasan berdasarkan ID tertentu.
+- **Menambahkan Reviews**: Mengirim data ulasan baru ke server.
+- **Merubah Reviews**: Memperbarui data ulasan yang sudah ada.
+- **Delete Reviews**: Menghapus data ulasan berdasarkan ID.
+- **404**: Menguji respons server jika endpoint tidak ditemukan.
+
+**Langkah Pengujian:**
+1. Import file koleksi ke aplikasi Postman.
+2. Jalankan setiap request sesuai urutan pada koleksi.
+3. Pastikan respons yang diterima sesuai dengan ekspektasi (status code, data yang dikembalikan, dll).
+4. Jika ada error atau respons tidak sesuai, lakukan pengecekan pada kode API.
+
+Dengan koleksi ini, seluruh fitur utama API dapat diuji
 Berikut Hasil PEngujiannya
 ```
 [Koleksi_Pengujian.postman_collection.json](https://github.com/user-attachments/files/22254416/Koleksi_Pengujian.postman_collection.json)
